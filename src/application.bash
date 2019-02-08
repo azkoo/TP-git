@@ -1,4 +1,9 @@
 ### Application.bash - 201x - Martin Guyot###
-echo "version 1.2"
 echo "Copyright Company - 201x"
-"Build : 10 : 00"
+
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
+
