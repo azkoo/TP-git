@@ -1,0 +1,10 @@
+
+MGUYOT@B15-03 MINGW64 /p/Versionning-TP1/src (powershell)
+$ git commit -m "add powershell lib"
+[powershell 4829736] add powershell lib
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 src/lib.sh
+
+MGUYOT@B15-03 MINGW64 /p/Versionning-TP1/src (powershell)
+$ git checkout master
+Switched to branch 'master'
