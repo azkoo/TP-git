@@ -1,5 +1,5 @@
 
-### Application.bash - 201x - Martin Guyot###
+### Application.bash - 201x - by Martin Guyot et surtout Axel Lefort (94%) ###
 echo "Copyright Company - 201x"
 
 
